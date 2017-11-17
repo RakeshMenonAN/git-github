@@ -62,9 +62,9 @@ int main(void) {
     	       else
     	    {
     	        	LED_DATA = 0;
-    				vDelay(1000);
+    				vDelay(700);
     				LED_DATA = 1;
-    				vDelay(1000);
+    				vDelay(700);
     	       }
 
     	    }
